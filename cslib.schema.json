@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/andyroiiid/ProjectGen/cslib.schema.json",
+  "title": "C# Library",
+  "description": "A C# library description file for ProjectGen",
+  "type": "object",
+  "properties": {
+    "references": {
+      "description": "Project references",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
