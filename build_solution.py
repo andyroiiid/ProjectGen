@@ -1,3 +1,5 @@
+# Copyright 2025 Andrew Huang. All Rights Reserved.
+
 import subprocess
 from argparse import ArgumentParser
 from pathlib import Path
